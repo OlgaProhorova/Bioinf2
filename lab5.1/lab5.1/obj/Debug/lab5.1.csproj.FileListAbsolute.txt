@@ -1,0 +1,6 @@
+C:\Users\lordy\Documents\Учёба\биоинф\lab5.1\lab5.1\bin\Debug\lab5.1.exe.config
+C:\Users\lordy\Documents\Учёба\биоинф\lab5.1\lab5.1\bin\Debug\lab5.1.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab5.1\lab5.1\bin\Debug\lab5.1.pdb
+C:\Users\lordy\Documents\Учёба\биоинф\lab5.1\lab5.1\obj\Debug\lab5.1.csprojResolveAssemblyReference.cache
+C:\Users\lordy\Documents\Учёба\биоинф\lab5.1\lab5.1\obj\Debug\lab5.1.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab5.1\lab5.1\obj\Debug\lab5.1.pdb

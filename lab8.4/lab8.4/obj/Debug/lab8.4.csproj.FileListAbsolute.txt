@@ -1,0 +1,6 @@
+C:\Users\lordy\Documents\Учёба\биоинф\lab8.4\lab8.4\bin\Debug\lab8.4.exe.config
+C:\Users\lordy\Documents\Учёба\биоинф\lab8.4\lab8.4\bin\Debug\lab8.4.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab8.4\lab8.4\bin\Debug\lab8.4.pdb
+C:\Users\lordy\Documents\Учёба\биоинф\lab8.4\lab8.4\obj\Debug\lab8.4.csprojResolveAssemblyReference.cache
+C:\Users\lordy\Documents\Учёба\биоинф\lab8.4\lab8.4\obj\Debug\lab8.4.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab8.4\lab8.4\obj\Debug\lab8.4.pdb
