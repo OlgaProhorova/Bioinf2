@@ -1,0 +1,6 @@
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.1\lab 9.1\bin\Debug\lab 9.1.exe.config
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.1\lab 9.1\bin\Debug\lab 9.1.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.1\lab 9.1\bin\Debug\lab 9.1.pdb
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.1\lab 9.1\obj\Debug\lab 9.1.csprojResolveAssemblyReference.cache
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.1\lab 9.1\obj\Debug\lab 9.1.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.1\lab 9.1\obj\Debug\lab 9.1.pdb

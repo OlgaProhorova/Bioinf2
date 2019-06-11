@@ -1,0 +1,5 @@
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.3\lab 9.3\bin\Debug\lab 9.3.exe.config
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.3\lab 9.3\bin\Debug\lab 9.3.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.3\lab 9.3\bin\Debug\lab 9.3.pdb
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.3\lab 9.3\obj\Debug\lab 9.3.exe
+C:\Users\lordy\Documents\Учёба\биоинф\lab 9.3\lab 9.3\obj\Debug\lab 9.3.pdb
